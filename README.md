@@ -368,7 +368,7 @@ This example is same as example 4 except the parameters for electronic heat capa
 
 ## TODO
 
-- Implement CUBE format output for temperature field
+- Implement CUBE format (http://paulbourke.net/dataformats/cube/) output for temperature field 
 
 ## License and Copying
 
