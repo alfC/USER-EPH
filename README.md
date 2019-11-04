@@ -368,7 +368,7 @@ This example is same as example 4 except the parameters for electronic heat capa
 
 ## TODO
 
-- Implement CUBE format (http://paulbourke.net/dataformats/cube/) output for temperature field 
+- Implement CUBE format (http://paulbourke.net/dataformats/cube/) output for temperature field and (either all or some high energy) atoms in the same file. This format can be easily read with VisIt.
 
 ## License and Copying
 
