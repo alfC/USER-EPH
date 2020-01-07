@@ -3,8 +3,8 @@ ifndef CUDA_HOME
 	CUDA_HOME=/usr/local/cuda
 endif
 
-CUDA_ARCH=compute_60
-CUDA_CODE=sm_60
+CUDA_ARCH=compute_70
+CUDA_CODE=sm_70
 
 NVCC=$(CUDA_HOME)/bin/nvcc
 MPICXX=mpicxx
